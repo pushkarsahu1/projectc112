@@ -1,0 +1,25 @@
+body
+{
+background-color:darkseagreen;
+color:white
+}
+h1
+{
+color:rgb(96, 32, 207);
+}
+#camera
+{
+width:600px;
+height:400px;
+border-width: 4px;
+border-style: dashed;
+border-color:black;
+}
+h3
+{
+color:red;
+}
+label
+{
+color:red;
+}
